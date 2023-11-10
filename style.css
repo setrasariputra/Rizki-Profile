@@ -1,0 +1,56 @@
+body {
+    background-color: #edf1fd;
+}
+.box-content {
+    margin-top:50px;
+    background-color: #edf1fd;
+    padding-top: 40px;
+}
+.topbar {
+ 
+}
+.logo {
+    text-align: center;
+}
+.logo img {
+    width: 50px;
+}
+.menu {
+    text-align: center;
+}
+.menu ul {
+    list-style-type: none;
+}
+.menu ul li {
+
+}
+.menu ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #333333;
+    padding: 7px 20px 7px 20px;
+}
+.menu ul li a.active {
+    background-color: #292929;
+    color: #ffffff;
+}
+.menu ul li a:hover {
+    background-color: #292929;
+    color: #ffffff;
+}
+.lang {
+    text-align: center;
+}
+
+.main-content {
+    margin: auto;
+}
+.image-profile {
+    text-align: right;
+}
+.text-red {
+    color: #ed0242;
+}
+.text-profile {
+    padding-top:150px;
+}
